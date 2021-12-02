@@ -1,5 +1,5 @@
-Hola , estamos avanzando con el tutorial
 ---
-title:  "Hola"
-date: 2021-12-02
+ título : " hola " 
+ fecha : AAAA-MM-DD 
 ---
+Hola, estamos avanzando con el tutorial
