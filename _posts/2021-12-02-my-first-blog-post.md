@@ -1,5 +1,5 @@
 ---
  título : " hola "
- fecha : AAAA-MM-DD 
+ fecha : 2021-12-01 
 ---
 Hola, estamos avanzando con el tutorial
