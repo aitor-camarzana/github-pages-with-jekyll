@@ -1,4 +1,4 @@
 ---
- título : " cambios "
- fecha : 2021-12-02 
+title: "El título de tu post"
+date: AAAA-MM-DD
 ---
