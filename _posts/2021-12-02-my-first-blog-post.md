@@ -1,4 +1,4 @@
 ---
-title: "El título de tu post"
-date: AAAA-MM-DD
+title: " hola "
+date: 2021-12-02
 ---
